@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194440432677",
+    "project_id": "paperpulse-607c6",
+    "storage_bucket": "paperpulse-607c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194440432677:android:ff3f378f6495880fc943cc",
+        "android_client_info": {
+          "package_name": "com.example.paperpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoe_oyzffnMpNFjPRz5jjEDZ24UZLevs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
